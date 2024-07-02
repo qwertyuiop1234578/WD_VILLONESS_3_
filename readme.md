@@ -16,7 +16,6 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
 
@@ -55,11 +54,6 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
