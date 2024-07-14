@@ -104,7 +104,16 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| coffee logo | to have a sample of a coffee shop website | https://www.bing.com/search?pglt=41&q=coffee+cartoon+png&cvid=3c2460c2356e4adcae661969aa7e80fc&gs_lcrp=EgZjaHJvbWUqBggBEAAYQDIGCAAQRRg7MgYIARAAGEAyBggCEEUYOTIGCAMQABhAMgYIBBAAGEAyBggFEC4YQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDIzNzRqMGoxqAIIsAIB&FORM=ANSPA1&PC=U531 |
+
+| riot | to have an idea and source for a gaming website header and footer | https://www.riotgames.com/en |
+
+| apple | to have an idea and source for a technology website header and footer | https://www.apple.com/ph/store?afid=p238%7CsAIjmXuC3-dc_mtid_18707vxu38484_pcrid_705390251930_pgrid_16280229372_pntwk_g_pchan__pexid__ptid_kwd-2894985026_&cid=aos-ph-kwgo-brand--slid---product- |
+
+| X | to have an idea and source for a gaming website header and footer | https://x.com/?lang=en |
+
+| foodpanda | to have an idea and source for a food website header and footer | https://www.foodpanda.ph/?utm_source=google&utm_medium=cpc&utm_campaign=246032313&sem_tracker=246032313&gad_source=1&gclid=CjwKCAjw7s20BhBFEiwABVIMrSC7D79bs2f6DpahBl34mFUYs8muNRTF76bK4RoiUe3E38_aRvOdJxoCGhQQAvD_BwE |
+
+
